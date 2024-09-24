@@ -1,11 +1,11 @@
 # WangYuJia-414join
-# 自我介绍
- 你好，我是王玉佳。
- 本人性格活泼开朗、工作认真仔细、具有很好的亲和力。
- 善于与人沟通、而且爱好广泛，爱好唱歌、喜欢不断创新、追求新事物。
-# 原因
- 提升解决问题的能力
- ‌拓宽职业道路
- ‌培养逻辑思维
- ‌满足好奇心和创造欲
- ‌增强计算机技能
+# Introduce yourself
+ Hello, I am Wang Yujia.
+ I have a lively and cheerful personality, work conscientiously and have good affinity.
+ I am good at communicating with others and has a wide range of hobbies, including singing, continuous innovation, and the pursuit of new things.
+# reason
+ Improve problem-solving skills
+ ‌Broaden career paths
+ ‌Develop logical thinking
+ ‌Satisfy curiosity and creativity
+ ‌Enhance computer skills
